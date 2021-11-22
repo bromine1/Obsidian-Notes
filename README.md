@@ -1,7 +1,7 @@
 # Obsidian-Notes
 Hi, if you know me you know me
 This is a set of rudimentary notes for my classes. I'm a big fan of FOSS stuff, and figured since I don't write software, why don't I open source my notes?
-* it also conveniently allows me to sync them across devices but shhhhhhhhh*
+*it also conveniently allows me to sync them across devices but shhhhhhhhh*
 
 I would like to note that these notes are not:
 - Infallible
