@@ -24,6 +24,7 @@
 
 $$
 \text {Mg}_3 \text {P}_2 \\
+
 \text {Magnesium Phosphide}
 $$
 

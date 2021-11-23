@@ -1,4 +1,4 @@
-# Chemical Bonding [[Chemical Bonds]]
+# Chemical Bonding 
 
 **How can we better understand chemical equations by analyzing the relationships between atoms, reactants, and products?**
 
@@ -60,8 +60,10 @@ $$
 
 An unbalanced equation is given. Balance it.
 $$
+\begin{align}
 \text {Balance: }P+O_2 \rightarrow P_4O_{10}\\
 \text {answer: } {4P} + {5O_2} \rightarrow {P_4O_{10}}
+\end{align}
 $$
 
 ---
