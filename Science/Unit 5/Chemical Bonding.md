@@ -69,16 +69,20 @@ $$
 ---
 
 $$
+\begin{align}
 {AgF} + {CaCl_2} \rightarrow {AgCl} + {CaF_2}\\
 {2AgF} + {CaCl_2} \rightarrow 2{AgCl} + {CaF_2}
+\end{align}
 $$
 
 ---
 
 Say how many of each kind of atom are in the chemical
 $$
+\begin{align}
 3Mg_3(PO_4)_2\\
 Mg: 9\\
 P: 6\\
 O: 24
+\end{align}
 $$
