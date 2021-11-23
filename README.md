@@ -9,6 +9,6 @@ I would like to note that these notes are not:
 - Formatted the best
 - written in any sort of normal person manner
 
-All of my notes are written using [Markdown](https://www.markdownguide.org/ "Markdown website and guide"). One should note that markdown is a widely used language implemented in a lot of different ways. The interpreter or writer you use may be different than mine, even if you are using the same program due to plugins. I'll try to keep up a wiki of what I use, but Im not entirely sure how well i'll keep up with it.
+All of my notes are written using [Markdown](https://www.markdownguide.org/ "Markdown website and guide"). One should note that markdown is a widely used language implemented in a lot of different ways. The interpreter or writer you use may be different than [mine](https://obsidian.md/ "Obsidian"), even if you are using the same program due to plugins. I'll try to keep up a wiki of what I use, but Im not entirely sure how well i'll keep up with it.
 
 P.S. Please bear with me, this si my first time using git, let alone github, so some things may take a moment
