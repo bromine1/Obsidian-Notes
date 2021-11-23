@@ -5,7 +5,7 @@ This is a set of rudimentary notes for my classes. I'm a big fan of FOSS stuff, 
 
 I would like to note that these notes are </u>***not***</u>:
 - Infallible
-- Necessarily my own ideas
+- Necessarily my own ideas, especially seing as *you*, yes *you*, could help to contribute
 - Formatted the best
 - written in any sort of normal person manner like a word doc
 
