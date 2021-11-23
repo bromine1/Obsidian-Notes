@@ -52,7 +52,7 @@ Note that its the beginning number - cientos, except for 500
 | 100    | cien             |
 | 200    | doscientos/as    |
 | 300    | trescientos/as   |
-| 400    | cuatroceintos/as |
+| 400    | cuatrocientos/as |
 | 500    | quinientos/as    |
 | 600    | seiscientos/as   |
 | 700    | setecientos/as   |
@@ -61,3 +61,4 @@ Note that its the beginning number - cientos, except for 500
 | 1000   | mil              |
 
 combine in a 100s-10s-1 format, such as ochocientos treinta dos
+
