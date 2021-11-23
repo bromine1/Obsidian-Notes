@@ -7,6 +7,9 @@ These notes, in theory, aren't necessarily mine. They're ours, and I hope others
 
 Most of my notes are written using [Markdown](https://www.markdownguide.org/ "Markdown website and guide"). One should note that markdown is a widely used language implemented in a lot of different ways. The interpreter or writer you use may be different than [mine](https://obsidian.md/ "Obsidian"), even if you are using the same program due to plugins. I'll try to keep up a wiki of what I use, but Im not entirely sure how well i'll keep up with it.
 
+
+If for some reason you come across this and don't know me personally, Hello! This is my first github project, and really a way for me to learn it while sharing my passion for Open Source, seeing as I don't know much code. If you have any tips or reccomendation on how I can improve my documentation (or the contents of my notes), please give a feature request in the issues section.
+
 ---
 # Installation
 
