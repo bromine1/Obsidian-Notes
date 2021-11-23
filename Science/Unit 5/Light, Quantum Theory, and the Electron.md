@@ -33,7 +33,6 @@
   - Electrons ***CANNOT*** exist between energy levels
 - A *Quantum* of energy is the amount of energy needed to move an electron from one energy level to another
 
-![image-20211025114028156](/home/kubuntu/snap/typora/42/.config/Typora/typora-user-images/image-20211025114028156.png)
 
 - You only see light when the energy is released
 - Think of color energy in ROY G BIV
@@ -60,7 +59,7 @@ Think of a Rope being swayed along the ground
 - Low Wavelength means high frequency
 For later, ***REVIEW ELECTROMAGNETIC SPECTRUM***
 
-![image-20211025120057079](/home/kubuntu/snap/typora/42/.config/Typora/typora-user-images/image-20211025120057079.png)
+
 
 - A has
   - Medium Wavelength

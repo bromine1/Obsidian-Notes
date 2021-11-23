@@ -4,6 +4,7 @@ ACLU - American Civil Liberty Union
  - An orginization dedicated to protecting civil liberties and free speech
  - Will Protect just about anyone
 ```
+
 ```ad-note
 Criminal Courts are different from civil courts
 You can be unconvicted criminally, but you may still be criminally liable
