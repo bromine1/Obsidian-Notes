@@ -8,7 +8,7 @@ These notes, in theory, aren't necessarily mine. They're ours, and I hope others
 Most of my notes are written using [Markdown](https://www.markdownguide.org/ "Markdown website and guide"). One should note that markdown is a widely used language implemented in a lot of different ways. The interpreter or writer you use may be different than [mine](https://obsidian.md/ "Obsidian"), even if you are using the same program due to plugins. I'll try to keep up a wiki of what I use, but Im not entirely sure how well i'll keep up with it.
 
 ---
-# installation
+# Installation
 
 As for using the repository, the [wiki](https://github.com/bromine1/Obsidian-Notes/wiki "Homepage") provides a few resources for good editors to use, and a guide for my setup and what I use.
 - Click [here](https://github.com/bromine1/Obsidian-Notes/wiki/Markdown "Markdown Explanation") for my explanation of markdown, as well as a link to a website that explains it better with better guides.
