@@ -4,6 +4,11 @@ ACLU - American Civil Liberty Union
  - An orginization dedicated to protecting civil liberties and free speech
  - Will Protect just about anyone
 ```
+```ad-note
+Criminal Courts are different from civil courts
+You can be unconvicted criminally, but you may still be criminally liable
+```
+
 # Court Law - Watss v. United States
  - Anti war protester spoke out against the draft threatening the president
  - "If I am given a rifle the first person I want in my Sights is LBJ (Lyndon B Johnson)"
@@ -89,7 +94,7 @@ ACLU - American Civil Liberty Union
 	- Many cases decided based off of this case
 
 ---
-# Melton v. Younf
+# Melton v. Young
 - Melton wore a jacket with the confederate flag on it
 - Flag and dixie were banned the year before
 - Racial tensions were high
