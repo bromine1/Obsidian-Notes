@@ -7,7 +7,7 @@ ACLU - American Civil Liberty Union
 
 ```ad-note
 Criminal Courts are different from civil courts
-You can be unconvicted criminally, but you may still be criminally liable
+You can be unconvicted criminally, but you may still be civily liable
 ```
 
 # Court Law - Watss v. United States
