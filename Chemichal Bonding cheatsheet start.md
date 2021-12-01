@@ -1,5 +1,3 @@
-# Vocab
-
 # Keep in Mind
 
 ### Everything
@@ -40,6 +38,20 @@ Check your solubility rules. Does the reaction create a gas, water, precipitate,
 ```ad-info
 title: Acid Rules
 
-- Acids end in ic our ous
 - Acids are Hydrogen balancing out the ions, polyatomic or not, with a neutral charge
+```
+```ad-info
+title: Acid Naming
+
+- Acids end in ic our ous
+	- Ends in ic if the ending is ate or ide
+	- Ends in ous if the ending is ite
+
+For Example:
+$$
+\begin{align}
+H_2 \underline {SO_4} \text { is sulpheric Acid}\\
+H_2 \underline {SO_3} \text { is sulpherous Acid}
+\end{align}
+$$
 ```
