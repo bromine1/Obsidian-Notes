@@ -104,16 +104,16 @@ title: Naming
 title: Prefixes
 
 | Prefix | Amount |
-| ------ | ------ |
-| Mono   | 1      |
-| Bi     | 2      |
-| Tri    | 3      |
-| Tetra  | 4      |
-| Penta  | 5      |
-| Hexa   | 6      |
-| Hepta  | 7      |
-| Octa   | 8      |
-| Nona   | 9      |
-| Deca   | 10     |
+|:------:|:------:|
+|  Mono  |   1    |
+|   Bi   |   2    |
+|  Tri   |   3    |
+| Tetra  |   4    |
+| Penta  |   5    |
+|  Hexa  |   6    |
+| Hepta  |   7    |
+|  Octa  |   8    |
+|  Nona  |   9    |
+|  Deca  |   10   |
 
 ```
