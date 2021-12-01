@@ -91,3 +91,29 @@ Other exceptions include Zinc and Silver
 You can remember this by counting down 2 and 1 from where the transition metals meet everything else
 ```
 
+### Covalent Bonds
+```ad-info
+title: Naming
+
+- Occurs between 2 Nonmetals
+- Charges don't necessarily have to balance
+- Number of atoms are said with prefixes such as mono and bi
+```
+
+```ad-info
+title: Prefixes
+
+| Prefix | Amount |
+| ------ | ------ |
+| Mono   | 1      |
+| Bi     | 2      |
+| Tri    | 3      |
+| Tetra  | 4      |
+| Penta  | 5      |
+| Hexa   | 6      |
+| Hepta  | 7      |
+| Octa   | 8      |
+| Nona   | 9      |
+| Deca   | 10     |
+
+```
