@@ -120,13 +120,14 @@ $$
 - When we start out, we have 0 product![[Pasted image 20211202120342.png]]
 - Equilibrium is reaached at around 0.5 seconds
 	- DOES NOT STOP
+- Equilibrium is writted with 2 arrows. For the purpose of I can't do this, this is a double arrow here
 
 #### Calculating equilibrium constant expressions (known as a Keq)
 - can be written as the following
 
 $$
 \begin{array}
-aA + bB \leftrightarrow cC + dD\\
+aaA + bB \leftrightarrow cC + dD \\
 k_{eq} = \frac {[C]^c * [D]^d} {[A]^a * [B]^b}
 \end{array}
 $$
@@ -151,7 +152,53 @@ title: Mass-Action Expression
 $$
 \begin{array}
 2KClO_3 \leftrightarrow 2KCl + 3O_2\\
-K_{eq} = \frac {[O_2]^3[2KCl]} {[SO_3]^2}
+K_{eq} = \frac {[O_2]^3[2KCl]^2} {[KClO_3]^2}
 \end{array}
 $$
 ```
+
+#### Le Chatelier's Principal
+> "If a stress is applied to a system at equilibrium, the system will change to relieve that sress and re-establish equilibrium"
+
+- Think of the undo button on your computer
+```ad-note
+title: Factors that Affect Equilibrium
+
+- Concentration
+- temperature
+- Pressure
+	- for gaseous systems only
+- The presence of a catalyst
+```
+##### Number Changes
+![[Pasted image 20211202122309.png]]
+- To reestablish equilibrium, the hydrogen will break up from the oxygen in the products to give 2 H_2 back to the reactants
+- Think as if you are balancing an equation. They are always trying to balance eachother
+
+```ad-note
+![[Pasted image 20211202122859.png]]
+```
+
+##### Heat
+
+![[Pasted image 20211202123044.png]]
+- If you take the heat away from the right, heat will move from the begining of the reaction to the products
+- If you add heat to the reaction its going to go abckwards
+- Remember, breaking bonds gives energy, creating bonds takes energy
+
+##### Pressure Changes
+- Only affect equilibrium system with <u> unequal </u> moles of <u>gaseous</u> reactants and products
+- Must be gaseous on both sides
+
+![[Pasted image 20211202123531.png]]
+- In this image, we are INCREASING
+- 4 mols on the left
+- 2 mols on the right
+- UNEQUAL NUMBER OF MOLES
+- Pressure shifts to the right in this example
+- The same works in reverse. If you are decreasing pressure, you want the pressure to shift to whatever has MORE moles
+
+##### Presence of a Catalyst
+- a catalyst lowerrs the activation energy and increases the reaction rate
+- will lower the forward and reverse reaction rate
+- has NO EFFECT on a system at equilibrium
