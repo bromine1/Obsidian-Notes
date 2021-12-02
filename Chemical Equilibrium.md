@@ -202,3 +202,22 @@ title: Factors that Affect Equilibrium
 - a catalyst lowerrs the activation energy and increases the reaction rate
 - will lower the forward and reverse reaction rate
 - has NO EFFECT on a system at equilibrium
+
+---
+
+```ad-example
+title: Table
+
+$$
+N_{2(g)}+3h_{2(g)} \leftrightarrow 2NH_{3(g)}+ 22.0kcal
+$$
+
+| stress                             | Equilibrium Shift | [N]\_2 | [H]\_2 | [NH]\_2 |  K  |
+| ---------------------------------- |:-----------------:|:------:|:------:|:-------:|:---:|
+| $$\text {1. add } N_2$$            |                   |        |        |         |     |
+| $$\text {2. add } H_2$$            |                   |        |        |         |     |
+| $$\text {3. add } N_2$$            |                   |        |        |         |     |
+| $$\text {4. remove } NH_3$$        |                   |        |        |         |     |
+| $$\text {5. remove } H_2$$         |                   |        |        |         |     |
+| $$\text {6. remove } NH_3$$        |                   |        |        |         |     |
+| $$\text {7. Increase temprature}$$ |                   |        |        |         |     |
