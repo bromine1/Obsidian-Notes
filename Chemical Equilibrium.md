@@ -1,0 +1,65 @@
+```ad-note
+Remmebr, equilibrium does NOT meant that things have stopped. In equilibrium, things are swapping around in balance
+```
+
+
+### Converting Moles
+
+- Periodic table tells you one mole of an atom in grams
+	- Measure of grams is equal to 1 mole 
+
+```ad-example
+title: Mols to grams
+
+$$
+\begin{array}
+\text {1 mol of }CO_2\\
+1(C) x 12.011 = 12.011\\
+2(O) x 15.999 = 31.998\\
+31.998+15.999 = \frac {44.009g} {mol}
+\text{So there are 44.009 g in 1 mol of } CO_2
+\end{array}
+$$
+```
+
+```ad-example
+title: mols to grams
+
+How many grams in 1 mol of Potassium Phosphate?
+$$
+\begin{array}
+k_3PO_4\\
+\text{How many grams in 1 mol of }k_3PO_4\\
+3(k) * 39.098 = 117.294\\
+1(P) * 30.974 = 30.974\\
+4(O) * 15.999 = 63.996\\
+117.294 + 30.974 + 63.996 = \frac {212.264g} {mol}\\
+\text{So there are 212.264 g in 1 mol of } CO_2
+\end{array}
+$$
+```
+
+```ad-example
+title: How many mols are in x grams?
+
+How many mols are in 456 grams of oxygen
+
+$$
+\frac {456g} {\frac {44.009g} {\text{mol}}} = 10.36 \text { mols}
+$$
+```
+
+```ad-example
+title: How many grams are in x mols?
+
+How many mols are in 8.3 mols of Potassium Phosphate
+
+$$
+8.3 * \frac {212.264} {mol} = 1.8 * 10^3 \text {grams}
+$$
+```
+---
+### Avogadro's Constant
+
+```ad-example
+How many atoms are in 
