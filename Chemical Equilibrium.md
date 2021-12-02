@@ -212,12 +212,13 @@ $$
 N_{2(g)}+3h_{2(g)} \leftrightarrow 2NH_{3(g)}+ 22.0kcal
 $$
 
-| stress                             | Equilibrium Shift | [N]\_2 | [H]\_2 | [NH]\_2 |  K  |
-| ---------------------------------- |:-----------------:|:------:|:------:|:-------:|:---:|
-| $$\text {1. add } N_2$$            |                   |        |        |         |     |
-| $$\text {2. add } H_2$$            |                   |        |        |         |     |
-| $$\text {3. add } N_2$$            |                   |        |        |         |     |
-| $$\text {4. remove } NH_3$$        |                   |        |        |         |     |
-| $$\text {5. remove } H_2$$         |                   |        |        |         |     |
-| $$\text {6. remove } NH_3$$        |                   |        |        |         |     |
-| $$\text {7. Increase temprature}$$ |                   |        |        |         |     |
+| stress                             | Equilibrium Shift |  [N]\_2   |  [H]\_2   |  [NH]\_2  |        K         |
+| ---------------------------------- |:-----------------:|:---------:|:---------:|:---------:|:----------------:|
+| $$\text {1. add } N_2$$            |       right       |    ---    | decreases | increases | remains the same |
+| $$\text {2. add } H_2$$            |       right       | decreases |    ---    | increases | remains the same |
+| $$\text {3. add } NH_3$$           |       left        | increase  | increase  |    ---    | remains the same |
+| $$\text {4. remove } N_2$$         |       left        |    ---    | increase  | decrease  | remains the same |
+| $$\text {5. remove } H_2$$         |       left        | increase  |    ---    | decrease  | remains the same |
+| $$\text {6. remove } NH_3$$        |       right       | decrease  | decrease  |    ---    | remains the same |
+| $$\text {7. Increase temprature}$$ |       left        | increase  | increase  | decrease  |       ---        |
+```
