@@ -60,6 +60,50 @@ $$
 ```
 ---
 ### Avogadro's Constant
+```ad-example
+
+```
+
 
 ```ad-example
-How many atoms are in 
+how many liters of nitrogen gas is 35.6 mols at STP
+
+$$
+\begin{array}
+STP = \frac {22.4L} {mol}
+22.4 * 35.6 = 797 L N_{2(g)}
+\end{array}
+$$
+```
+
+---
+- Coefficients give us the Moles of each reactant and product
+
+```ad-example
+$$
+MgCl_2 + 2NaOH \rightarrow Mg(OH)_2 + 2NaCl
+$$
+- we can use these number to get Mole Ratios
+- So we have 2 moles of sodium hydroxide to 1 mole  of magnesium hydroxid
+
+$$
+\frac {2mol NaOH} {1 mol Mg(OH)_2}
+$$
+
+- 1 Mole of Magnesium chloride to 2 moles of sodium chloride
+
+$$
+\frac {1 mol MgCl_2} {2 mol NaCl}
+$$
+- 1 Mole of Sodium Hydroxide to 1 Mole of Sodium Chloride
+
+$$
+\frac {1 mol Na(OH)} {1 mol NaCl}
+$$
+```
+---
+### Chemical Equilibrium
+- most chemical reaction reach a state of amking chemical equilibrium
+	- Most aren't just one arrow making a single products
+- Products may turn back into reactants
+	- We call these reversable reactions
