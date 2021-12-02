@@ -107,3 +107,51 @@ $$
 	- Most aren't just one arrow making a single products
 - Products may turn back into reactants
 	- We call these reversable reactions
+
+```ad-example
+$$
+\begin{array}
+A+B \rightarrow C+D\\
+C+D \rightarrow A+B\\
+\end{array}
+$$
+```
+- When talking about equilibrium we're talking about concentrations of things
+- When we start out, we have 0 product![[Pasted image 20211202120342.png]]
+- Equilibrium is reaached at around 0.5 seconds
+	- DOES NOT STOP
+
+#### Calculating equilibrium constant expressions (known as a Keq)
+- can be written as the following
+
+$$
+\begin{array}
+aA + bB \leftrightarrow cC + dD\\
+k_{eq} = \frac {[C]^c * [D]^d} {[A]^a * [B]^b}
+\end{array}
+$$
+- This equation is sometimes called the **Mass-Action Expression**
+- This is the Products over the Reactants
+- The power symbols is the coefficient
+
+```ad-example
+title: Mass-Action Expression
+
+$$
+\begin{array}
+2SO_3 \leftrightarrow 2SO_2 + O_2\\
+K_{eq} = \frac {[SO_2]^2[O_2]^2} {[SO_3]^2}
+\end{array}
+$$
+```
+
+```ad-example
+title: Mass-Action Expression
+
+$$
+\begin{array}
+2KClO_3 \leftrightarrow 2KCl + 3O_2\\
+K_{eq} = \frac {[O_2]^3[2KCl]} {[SO_3]^2}
+\end{array}
+$$
+```
