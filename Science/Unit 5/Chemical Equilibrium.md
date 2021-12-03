@@ -188,7 +188,8 @@ title: Factors that Affect Equilibrium
 
 ##### Pressure Changes
 - Only affect equilibrium system with <u> unequal </u> moles of <u>gaseous</u> reactants and products
-- Must be gaseous on both sides
+- Count the moles, arrow points to the side with less gaseous moles
+- ONLY COUNT THE GASEOUS MOLES
 
 ![[Pasted image 20211202123531.png]]
 - In this image, we are INCREASING
