@@ -5,4 +5,5 @@
 - If you aren't asked about a product, you can ignore it
 - Remember the table method: before, change, after
 
-Examples are COURTESY OF JOURNEY! PLEASE THANK HER!
+Examples are COURTESY OF JOURNEY! PLEASE THANK HER!!
+![[Journey_Stoichiometry_Notes.jpg]]
