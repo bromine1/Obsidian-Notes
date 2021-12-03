@@ -70,8 +70,8 @@ how many liters of nitrogen gas is 35.6 mols at STP
 
 $$
 \begin{array}
-STP = \frac {22.4L} {mol}
-22.4 * 35.6 = 797 L N_{2(g)}
+{}STP = \frac {22.4L} {mol}
+22.4 * 35.6 = 797  N_{2(g)}L
 \end{array}
 $$
 ```
@@ -221,5 +221,5 @@ $$
 | $$\text {4. remove } N_2$$         |       left        |    ---    | increase  | decrease  | remains the same |
 | $$\text {5. remove } H_2$$         |       left        | increase  |    ---    | decrease  | remains the same |
 | $$\text {6. remove } NH_3$$        |       right       | decrease  | decrease  |    ---    | remains the same |
-| $$\text {7. Increase temprature}$$ |       left        | increase  | increase  | decrease  |       ---        |
+| $$\text {7. Increase temprature}$$ |       right       | decrease  | decrease  | increase  |       ---        |
 ```
