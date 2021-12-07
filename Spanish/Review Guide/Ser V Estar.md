@@ -12,12 +12,12 @@
 
 ---
 # Conjugations
-|      Form       |  Ser  |  Estar  |
-|:---------------:|:-----:|:-------:|
-|       Yo        |  soy  |  estoy  |
-|       Tu        | eres  |  estás  |
-|  Él/Ella/usted  |  es   |  está   |
-|    Nosotros     | somos | estamos |
-|    Vosotros     | sois  | estáis  |
-| Él/Ella/Ustedes |  son  |  están  |
+|  Ser  |      Form       |  Estar  |
+|:-----:|:---------------:|:-------:|
+|  soy  |       Yo        |  estoy  |
+| eres  |       Tu        |  estás  |
+|  es   |  Él/Ella/usted  |  está   |
+| somos |    Nosotros     | estamos |
+| sois  |    Vosotros     | estáis  |
+|  son  | Él/Ella/Ustedes |  están  |
 
