@@ -713,7 +713,7 @@ tan 40 ^9E2CrMWy
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#2b8a3e",
 		"currentItemBackgroundColor": "transparent",

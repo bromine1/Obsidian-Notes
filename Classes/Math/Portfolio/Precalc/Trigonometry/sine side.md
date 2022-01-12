@@ -2410,7 +2410,7 @@ Answer: ^G8lsZ5Rt
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#a61e4d",
 		"currentItemBackgroundColor": "transparent",

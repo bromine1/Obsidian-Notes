@@ -1426,7 +1426,7 @@ Answer: ^jYagFJ3Y
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#5f3dc4",
 		"currentItemBackgroundColor": "transparent",
