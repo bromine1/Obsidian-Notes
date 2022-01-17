@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "c52c68755da9acab",
+    "type": "split",
+    "children": [
+      {
+        "id": "91482e645c5061be",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Classes/Math/Portfolio/Precalc/Trigonometry/Sine formula.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "469702bbe7b8e253",
+    "type": "split",
+    "children": [
+      {
+        "id": "a75d31f4281e4894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa54b34c552068ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dae420074b10b77a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3e73afeeaf21a44",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dd99de04ace6b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5684f1f9ecc959d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classes/Math/Portfolio/Precalc/Trigonometry/Sine formula.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0af8930e0cc04086",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "30a4f94b15ceae43",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "91482e645c5061be",
+  "lastOpenFiles": [
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Sine formula.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Unit Circle Completed.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Unit Circle Completed.png",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/sine side.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Sine Application Porblem.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Unit Circle.png"
+  ]
+}
