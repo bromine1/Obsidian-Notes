@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "fe1a8fbe53ddcd46",
+    "type": "split",
+    "children": [
+      {
+        "id": "887f3700c6230ff7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Debate Temp.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f041d942ee1b5464",
+    "type": "split",
+    "children": [
+      {
+        "id": "53df2a8c513f3057",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa03ff04ba59fbf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bc6652966ce9bc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af2396b2c0e092b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8110ee68ddbae164",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e7da2c355f66ead",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Debate Temp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "887f3700c6230ff7",
+  "lastOpenFiles": [
+    "Debate Temp.md",
+    "What to do upon new distro.md",
+    "Homework/January 2022/2022-01-12.md",
+    "README.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Cosine Application.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Sine Application Porblem.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Sine formula.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/sine side.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Right find side.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/cosine side.md"
+  ]
+}
