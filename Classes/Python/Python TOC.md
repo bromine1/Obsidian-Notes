@@ -1,4 +1,6 @@
+tags:
 #python 
+#computer_science 
 # What is this?
 This is the table of contents for the python graphs
 

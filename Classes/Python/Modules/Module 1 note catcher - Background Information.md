@@ -3,13 +3,13 @@ tags:
 #computer_science
 
 
-# How do computer programs work?
+# How do Computer Programs Work?
 - computers programs work by using many simple instructions ontop of other simple instructions to perform tasks
 - Computers cannot innately understand instructions in something such as english: they need a **language** they understand
 
 ## What is a Language
 - language is used all over the world
-- We understand **natural languages**, or languages devolped over time such as english, German, Korean, Hindu, Arabic, Mandarin, and more
+- We undaerstand **natural languages**, or languages devolped over time such as english, German, Korean, Hindu, Arabic, Mandarin, and more
 - Computers understand language throuhg simple **Instrictions**. We call these **Instruction lists**, or IL for short. They are **Machine Languages**
 - Different computers understand different languages. For example, a windows machine knows powershell and DOS. A linux machin will probably know BASH (Bourne Again Shell). They can both learn languages like Javascript, Ruby, and **Python**. Both of them natively understand Binary.
 ### What Makes a Language
@@ -22,7 +22,7 @@ Languages consist of 4 main elements:
 	- Think of <u>grammar</u> for natural languages
 	- Think of the <u>order of arguments</u> in machine languages
 - **Semantics** - Does it make sense?
-# Compilation vs interpretation
+# Compilation vs Interpretation
 There are 2 ways of changing programs from high level languages to machine code: **compilation** vs **interpretation**
 ## Compilation
 in compilation the program is compiled once as the entire program. This is amde into a file such as a .exe, or one of the many choices on linux. This contains the machine code.
@@ -34,7 +34,7 @@ in compilation the program is compiled once as the entire program. This is amde 
 ### Disadvantadges
 - Changes are slow - program must be compiled each time to run
 - programs must be compiled for different operating systems: this can grow cumbersome, especially for enterpiese software that needs to support multiple approaches
-## interpretation
+## Interpretation
 In interpretation, code is shipped as is, and is made into machine code on the sport by an **interpreter**.
 ### Advantadges
 - Allows for faster testing
@@ -43,7 +43,7 @@ In interpretation, code is shipped as is, and is made into machine code on the s
 ### Disadvantadges
 - Program must be interpreted each time it is ran - a bottleneck for some alrger applications
 - end users must have the interpreter and pckages installed to run the code
-## How does the interpreter work
+## How does the Interpreter Function?
 - Programs are just text, so we put our code into text files to allow them to run
 - programs must be written in **Pure Text** or **Plain Text**. This means
 	- No images
@@ -54,14 +54,14 @@ In interpretation, code is shipped as is, and is made into machine code on the s
 - If the compiler finds an error, the task is exited with an error code. You may be told where the error might be, but this can be misleading
 - The interpreter then executes the line of code. This can be follows in the process "read-check-execute"
 - Programs that use interpreters are called scripting languages, and the programs they use are called scripts
-## Where does python fall on this spectrum?
+## Is Python Interpreted or Compiled
 - Python is an **Intepreted Language**
 - You need the **Python interpreter** to run python code. Luckily, it is **Free**, both in the sense of cost and *libre*, or free to do with as you want.
-# What is python?
+# What is Python?
 - Python is a high level object oriented programming purpose used for a lot o thigns
 - the create is **Guido can Rossum**
 - The creator names the language after [Monty Python's Flying Circuis](https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus), A comedy show that you may recognize from **Monty Python and the Holy Grail**
-## What were the Goals of Python?
+## What Were the Goals of Python?
 In 1999, the goals for python were outlined by Guido van Rossum. His goals were:
 - "an **easy and intuitive** language just as powerful as those of the major competitors"
 - "**open source**, so anyone can contribute to its development"

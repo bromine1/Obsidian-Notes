@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Python/Python TOC.md",
+            "file": "Classes/Python/Modules/Module 1 note catcher - Background Information.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 126.5
   },
   "right": {
     "id": "e3e73afeeaf21a44",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Python TOC.md",
+                "file": "Classes/Python/Modules/Module 1 note catcher - Background Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +105,9 @@
   },
   "active": "e05c95c819f010f2",
   "lastOpenFiles": [
+    "Classes/Python/Modules/Module 1 note catcher - Background Information.md",
     "Classes/Python/Python TOC.md",
     "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md",
-    "Classes/Python/Modules/Module 1 note catcher - Background Information.md",
     "Chemichal Bonding cheatsheet.md",
     "Function Database.md",
     "Classes/English/WOTD/Ethnocentrism.md",
