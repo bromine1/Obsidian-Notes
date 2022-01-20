@@ -1,3 +1,4 @@
+#wotd
 # Culpable - 
 - to be deserving of guilt
 - to be the perpetrator of wrongoing
