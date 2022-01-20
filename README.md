@@ -16,5 +16,5 @@ If for some reason you come across this and don't know me personally, Hello! Thi
 As for using the repository, the [wiki](https://github.com/bromine1/Obsidian-Notes/wiki "Homepage") provides a few resources for good editors to use, and a guide for my setup and what I use.
 - Click [here](https://github.com/bromine1/Obsidian-Notes/wiki/Markdown "Markdown Explanation") for my explanation of markdown, as well as a link to a website that explains it better with better guides.
 - Click [here](https://github.com/bromine1/Obsidian-Notes/wiki/Downloading-notes-and-using-them "Tutorial") for a tutorial on how to get this set up automatically. No command line items or anything complicated, just some signing in.
-- Click [here](https://github.com/bromine1/Obsidian-Notes/wiki/Obsidian "Obsidian") for a quick rundown on the markdown editor I use, along with the plugins I use, for maximum compatability for those contributing.
+- All plugins I use are included in the .obsidian folder, simply disable safe mode (this just prevents community extensions from running)
 

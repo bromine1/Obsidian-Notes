@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "91482e645c5061be",
+        "id": "efde10ab51ca3d0f",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Classes/Math/Portfolio/Precalc/Trigonometry/Sine formula.md"
+            "file": "README.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Math/Portfolio/Precalc/Trigonometry/Sine formula.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,13 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91482e645c5061be",
+  "active": "efde10ab51ca3d0f",
   "lastOpenFiles": [
-    "Classes/Math/Portfolio/Precalc/Trigonometry/Sine formula.md",
-    "Classes/Math/Portfolio/Precalc/Trigonometry/Unit Circle Completed.md",
-    "Classes/Math/Portfolio/Precalc/Trigonometry/Unit Circle Completed.png",
-    "Classes/Math/Portfolio/Precalc/Trigonometry/sine side.md",
-    "Classes/Math/Portfolio/Precalc/Trigonometry/Sine Application Porblem.md",
-    "Classes/Math/Portfolio/Precalc/Trigonometry/Unit Circle.png"
+    "README.md",
+    "Classes/Python/Untitled.md",
+    "Excalidraw/UC funtion csc coterm radian.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Trig Functions/Trig functions on the unit circle/UC  function  sec degree.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Trig Functions/Trig functions on the unit circle/UC  function  sec coterm radian.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Concepts and graphs/Unit Circle Completed.png",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Concepts and graphs/Unit Circle Completed.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Concepts and graphs/Positive Coterminal Radians.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Concepts and graphs/Positive Coterminal.md",
+    "Classes/Math/Portfolio/Precalc/Trigonometry/Concepts and graphs/Positive Coterminal.png"
   ]
 }
