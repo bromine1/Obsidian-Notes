@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e05c95c819f010f2",
+        "id": "be3e9511e1b86b5b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Python/Modules/Module 1 note catcher - Background Information.md",
+            "file": "Classes/Python/Topics/Operators.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 126.5
+    "width": 193
   },
   "right": {
     "id": "e3e73afeeaf21a44",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module 1 note catcher - Background Information.md",
+                "file": "Classes/Python/Topics/Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e05c95c819f010f2",
+  "active": "be3e9511e1b86b5b",
   "lastOpenFiles": [
-    "Classes/Python/Modules/Module 1 note catcher - Background Information.md",
-    "Classes/Python/Python TOC.md",
+    "Classes/Python/Topics/Operators.md",
+    "Classes/Python/Topics/Variables.md",
+    "Classes/Python/Topics/Data Types.md",
     "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md",
-    "Chemichal Bonding cheatsheet.md",
-    "Function Database.md",
-    "Classes/English/WOTD/Ethnocentrism.md",
-    "OldClasses/Chemistry/Thermals/Changing temp and Pressure.md",
-    "Classes/English/WOTD/Disparage.md",
-    "Classes/English/WOTD/Culpable.md",
-    "Classes/English/WOTD/Remiss.md"
+    "Classes/Python/Python TOC.md",
+    "Classes/Python/Function Database/Import.md",
+    "Classes/Python/Modules/Module 1 note catcher - Background Information.md",
+    "Classes/Python/Function Database/Int().md",
+    "Print().md",
+    "Classes/Python/Function Database/Str().md"
   ]
 }
