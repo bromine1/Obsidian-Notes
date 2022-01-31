@@ -4,4 +4,4 @@
 In any case, go forth, be good, and I'll see you whenever I do. --->
 
 <!-- Tags: #python #computer_science #modules #data_types -->
-# Module 3: [Booleans](Booleans.md) , [[Classes/Python/Topics/Module 3/Operators|Operators]], [[Classes/Python/Topics/Module 3/Conditions|Conditions]], [[Classes/Python/Topics/Module 3/Conditions|Logic]] and [[Classes/Python/Topics/Module 3/Lists|Lists]]
+# Module 3: [Booleans](../Topics/Module3/Booleans) , [[Classes/Python/Topics/Module3/Operators|Operators]], [[Conditions|Conditions]], [[Conditions|Logic]] and [[Lists|Lists]]
