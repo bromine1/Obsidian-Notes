@@ -4,7 +4,7 @@
 In any case, go forth, be good, and I'll see you whenever I do. --->
 
 <!-- Tags: #python #computer_science #modules #data_types -->
-# Module 3: [Logic](./Topics/Logic), [Booleans](./Topics/Booleans.md), and [Lists](./Topics/Lists)
+# Module 3: [Logic](./Topics/Logic), Booleans, and [Lists](./Topics/Lists)
 
 ## [Logic](./Topics/Logic) - Conditional  Statements
 - The `if`, `elif`, and `else` statements take Comparisson operators. If they return true, the execute their code. This allows your program to make rudimentary decisions. The functions are detailed more 
@@ -17,3 +17,7 @@ In any case, go forth, be good, and I'll see you whenever I do. --->
 - The rules that dicate if code is correct
 - each program has it's own
 - think of it like grammar for code
+
+## Booleans
+- Booleans are a data type in python that can only be `True` or `False`
+- Many functions take booleans and manipulate them to determine how they should act
