@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "864cd86e00cb4a09",
+        "id": "7ba08cca8b22bc18",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Python/Modules/Module 3/Module 3 Note Catcher.md",
-            "mode": "preview",
+            "file": "Classes/Python/Modules/Module 3/Topics/Logic.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407
+    "width": 407,
+    "collapsed": true
   },
   "right": {
     "id": "e3e73afeeaf21a44",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module 3/Module 3 Note Catcher.md",
+                "file": "Classes/Python/Modules/Module 3/Topics/Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +104,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "864cd86e00cb4a09",
+  "active": "7ba08cca8b22bc18",
   "lastOpenFiles": [
+    "Classes/Python/Modules/Module 3/Topics/Logic.md",
     "Classes/Python/Modules/Module 3/Module 3 Note Catcher.md",
     "Classes/Python/Modules/Module 3/Topics/Lists.md",
     "Classes/Python/Modules/Module 3/Topics/Booleans.md",
@@ -113,7 +115,6 @@
     "Classes/Python/Topics/Operators.md",
     "Classes/Python/Topics/Data Types.md",
     "Classes/Python/Modules/Module 3/Topics/Operators.md",
-    "Classes/Python/Modules/Module 3/Topics/Logic.md",
     "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md"
   ]
 }
