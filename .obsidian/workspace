@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Classes/Python/Modules/Module 3/Module 3 Note Catcher.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -106,6 +106,7 @@
   "active": "864cd86e00cb4a09",
   "lastOpenFiles": [
     "Classes/Python/Modules/Module 3/Module 3 Note Catcher.md",
+    "Classes/Python/Modules/Module 3/Topics/Lists.md",
     "Classes/Python/Modules/Module 3/Topics/Booleans.md",
     "Classes/Python/Python TOC.md",
     "Classes/Python/Topics/Variables.md",
@@ -113,7 +114,6 @@
     "Classes/Python/Topics/Data Types.md",
     "Classes/Python/Modules/Module 3/Topics/Operators.md",
     "Classes/Python/Modules/Module 3/Topics/Logic.md",
-    "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md",
-    "Classes/Python/Modules/Module 3/Topics/Lists.md"
+    "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md"
   ]
 }
