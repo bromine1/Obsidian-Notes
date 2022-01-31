@@ -4,12 +4,12 @@
 In any case, go forth, be good, and I'll see you whenever I do. --->
 
 <!-- Tags: #python #computer_science #modules #data_types -->
-# Module 3: [Logic](./Topics/Logic), Booleans, and [Lists](./Topics/Lists)
+# Module 3: [Logic](./Topics/Logic.md), Booleans, and [Lists](./Topics/Lists.md)
 
-## [Logic](./Topics/Logic) - Conditional  Statements
+## [Logic](./Topics/Logic.md) - Conditional  Statements
 - The `if`, `elif`, and `else` statements take Comparisson operators. If they return true, the execute their code. This allows your program to make rudimentary decisions. The functions are detailed more 
 
-### [Comparison Operators](./Topics/Logic#Comparison-Operators)
+### [Comparison Operators](./Topics/Logic.md#Comparison-Operators)
 - Comparison operators take data and compare them. If the desired Outcome is reached, they return true
 - Can comapre multiple data types
 
