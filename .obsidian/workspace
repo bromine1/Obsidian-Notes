@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Python/Modules/Module 3 Note Catcher.md",
+            "file": "Classes/Python/Topics/Module3/Booleans.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module 3 Note Catcher.md",
+                "file": "Classes/Python/Topics/Module3/Booleans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +105,8 @@
   },
   "active": "4fdd503aca4cadd9",
   "lastOpenFiles": [
-    "Classes/Python/Modules/Module 3 Note Catcher.md",
     "Classes/Python/Topics/Module3/Booleans.md",
+    "Classes/Python/Modules/Module 3 Note Catcher.md",
     "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md",
     "Classes/Python/Topics/Module3/Lists.md",
     "Classes/Python/Topics/Module3/Logic.md",
