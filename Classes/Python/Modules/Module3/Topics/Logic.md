@@ -40,7 +40,7 @@ else:
 - If the left is the same as the right, return True
 
 #### Not Equal
-- `! =` (No space, render issue)
+- `!=` (No space, render issue)
 - Returns true if one value is not equal to another
 
 #### Greater than
