@@ -141,9 +141,12 @@ z = 2
 
 if x == 3 and y == 2 or z==2:
 	print("True")
-# This program will output true, as while the and returns false, the or has a succesful argument, and will retun everything as true. It may be helpful to visualise the program with parenthases like so:
+# This program will output true, as while the and returns false, the or has a succesful argument, and will 
+#retun everything as true. It may be helpful to visualise the program with parenthases like so:
 
 if (x == 3 and y == 2) or z==2:
 	print("True")
 
 ```
+
+- Try mixing together a few logic operators and thinking of reasons why you might want to do so
