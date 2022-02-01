@@ -9,7 +9,7 @@ In any case, go forth, be good, and I'll see you whenever I do. --->
 ## [Logic](Topics/Logic.md) - Conditional  Statements
 - The `if`, `elif`, and `else` statements take Comparisson operators. If they return true, the execute their code. This allows your program to make rudimentary decisions. The functions are detailed more 
 
-### [Comparison Operators](Topics/Logic.md#Comparison**&nbsp**Operators)
+### [Comparison Operators](Topics/Logic.md#Comparison&nbspOperators)
 - Comparison operators take data and compare them. If the desired Outcome is reached, they return true
 - Can comapre multiple data types
 

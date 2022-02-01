@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Classes/Python/Modules/Module3/Topics/Logic.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -107,13 +107,13 @@
   "lastOpenFiles": [
     "Classes/Python/Modules/Module3/Topics/Logic.md",
     "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
+    "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md",
     "README.md",
     "Classes/Python/Modules/Module3/Topics/Lists.md",
     "Classes/Python/Modules/Module 3/Topics/Conditions.md",
     "Classes/Python/Modules/Module 3/Topics/Operators.md",
     "Classes/Python/Modules/Module 3/Topics/Booleans.md",
     "Classes/Python/Python TOC.md",
-    "Classes/Python/Topics/Variables.md",
-    "Classes/Python/Topics/Operators.md"
+    "Classes/Python/Topics/Variables.md"
   ]
 }
