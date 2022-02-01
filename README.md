@@ -16,7 +16,7 @@ If for some reason you come across this and don't know me personally, Hello! Thi
 For those looking to use it online, most of these Folders are for data storage. In the browse code section (where all the files are) go to classes, then navigate to the class you wish to study or view. For Python, each class is sorted into modules that line up with class.
 
 ---
-# Installation
+# Installation - Using Obsidian because it's beautiful
 
 As for using the repository, the [wiki](https://github.com/bromine1/Obsidian-Notes/wiki "Homepage") provides a few resources for good editors to use, and a guide for my setup and what I use.
 - Click [here](https://github.com/bromine1/Obsidian-Notes/wiki/Markdown "Markdown Explanation") for my explanation of markdown, as well as a link to a website that explains it better with better guides.

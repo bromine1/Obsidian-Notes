@@ -30,7 +30,7 @@ else:
 	print ("oops")
 # oops would print, as both conditionals before would have failed
 ```
-# Comparison Operators
+# Comparison**&nbsp**Operators
 
 - Conditional functions need a condition to be defined. These give the condition to the function by returning a boolean, which si either `True` or `False`. In this manner their output may be stored in variables for later.
 
