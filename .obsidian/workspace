@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
+            "file": "Classes/Python/Modules/Module3/Topics/Lists.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
+                "file": "Classes/Python/Modules/Module3/Topics/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +105,9 @@
   },
   "active": "a8057dd66a825e8d",
   "lastOpenFiles": [
-    "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
-    "Classes/Python/Modules/Module3/Topics/Logic.md",
     "Classes/Python/Modules/Module3/Topics/Lists.md",
+    "Classes/Python/Modules/Module3/Topics/Logic.md",
+    "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
     "Classes/Python/Modules/Module 3/Topics/Conditions.md",
     "Classes/Python/Modules/Module 3/Topics/Operators.md",
     "Classes/Python/Modules/Module 3/Topics/Booleans.md",
