@@ -38,9 +38,9 @@ else:
 - `==`
 - Takes 2 arguments, one to the left, one to the right
 - If the left is the same as the right, return True
-
+<!-- No space comments are for those using obsidian. Since I recognize the vast majority of you are vieing this through github, I figured it should be for you first -->
 #### Not Equal
-- `!=` (No space, render issue)
+- `!=` (written as ! =, no space)
 - Returns true if one value is not equal to another
 
 #### Greater than
@@ -52,11 +52,11 @@ else:
 - if left is less than the right, return `True`
 
 #### Greater than or Equal too
-- `> =` (No space, Render issue)
+- `>=` (written as > =, no space)
 - if left is greater than or equal to the right, return `True`
 
 #### Less than
-- `< =` (No space, Render issue)
+- `<=` (written as < =, no space)
 - if left is less than or equal to the right, return `True`
 
 
