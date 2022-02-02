@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2a7d5808c769c063",
+        "id": "81206e2700267cb9",
         "type": "split",
         "children": [
           {
-            "id": "76f1bc5b66a8af48",
+            "id": "0f1142d97d255394",
             "type": "leaf",
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,12 +21,13 @@
             }
           },
           {
-            "id": "dab6413b1f6d591e",
+            "id": "b645878d8e112933",
             "type": "leaf",
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Python/Modules/Module3/Topics/Loops.md",
+                "file": "Classes/Python/Modules/Module3/Topics/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module3/Topics/Loops.md",
+                "file": "Classes/Python/Modules/Module3/Topics/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,12 +125,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dab6413b1f6d591e",
+  "active": "b645878d8e112933",
   "lastOpenFiles": [
-    "Classes/Python/Modules/Module3/Topics/Loops.md",
-    "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
-    "Classes/Python/Modules/Module3/Topics/Logic.md",
     "Classes/Python/Modules/Module3/Topics/Lists.md",
+    "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
+    "Classes/Python/Modules/Module3/Topics/Loops.md",
+    "Classes/Python/Modules/Module3/Topics/Logic.md",
     "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md",
     "README.md",
     "Classes/Python/Modules/Module 3/Topics/Conditions.md",

@@ -30,3 +30,31 @@ In any case, go forth, be good, and I'll see you whenever I do. --->
 - Loops allow us to perfrom these without writing so many lines of code
 - There are 2 main loops, the [`while`](Topics/Loops.md#whileㅤLoops) loop and the [`for`](Topics/Loops.md#forㅤloops) loop
 
+## Bitwise Logic
+- Computers can use bitwise logic to test boolean values
+- only 1 bit must be true
+- Operators work on integers in their binary form
+- Operators work on a systems of 1 and 0, where 1 is true and 0 is false
+- Traditional logic gate system
+
+## [Lists](Topics/Lists.md)
+- Lists are sets of data
+- can contain multiple kinds of data
+- Lists have their contents accessed through indexes
+- Lists reference a location in memory, if you copy a list to another variable you copy the reference to that list
+
+## Functions vs Methods
+### Functions
+- make results
+- stand on their own
+- gets and creates data
+- `function(arg)`
+
+### Methods
+- manipulates data
+- for specific data types
+- can change data it was called on
+- `data.method(arg)`
+
+
+
