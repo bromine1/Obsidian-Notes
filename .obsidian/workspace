@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dab6413b1f6d591e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Classes/Python/Modules/Module3/Topics/Logic.md",
-            "mode": "preview",
-            "source": false
+        "id": "2a7d5808c769c063",
+        "type": "split",
+        "children": [
+          {
+            "id": "76f1bc5b66a8af48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dab6413b1f6d591e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Python/Modules/Module3/Topics/Loops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -53,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279
+    "width": 279,
+    "collapsed": true
   },
   "right": {
     "id": "e3e73afeeaf21a44",
@@ -69,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module3/Topics/Logic.md",
+                "file": "Classes/Python/Modules/Module3/Topics/Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +125,9 @@
   },
   "active": "dab6413b1f6d591e",
   "lastOpenFiles": [
-    "Classes/Python/Modules/Module3/Topics/Logic.md",
     "Classes/Python/Modules/Module3/Topics/Loops.md",
     "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
+    "Classes/Python/Modules/Module3/Topics/Logic.md",
     "Classes/Python/Modules/Module3/Topics/Lists.md",
     "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md",
     "README.md",
