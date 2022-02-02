@@ -4,7 +4,7 @@
 In any case, go forth, be good, and I'll see you whenever I do. --->
 
 <!-- Tags: #python #computer_science #modules #data_types -->
-# Module 3: [Logic](Topics/Logic.md), Booleans, and [Lists](Topics/Lists.md)
+# Module 3: [Logic](Topics/Logic.md), Booleans, [Loops](Topics/Loops.md) and [Lists](Topics/Lists.md)
 
 ## [Logic](Topics/Logic.md) - Conditional  Statements
 - The `if`, `elif`, and `else` statements take Comparisson operators. If they return true, the execute their code. This allows your program to make rudimentary decisions. The functions are detailed more 
@@ -21,3 +21,12 @@ In any case, go forth, be good, and I'll see you whenever I do. --->
 ## Booleans
 - Booleans are a data type in python that can only be `True` or `False`
 - Many functions take booleans and manipulate them to determine how they should act
+- Booleans can be compared with [logic operators](Topics/Logic.md#LogicㅤOperators)
+
+## [Loops](Topics/Loops.md)
+- Loops are a tool used for iterating over code
+	- What if you wanted to perform the same task 20 times?
+	- What if you want to perform a task until a user tells you to stop?
+- Loops allow us to perfrom these without writing so many lines of code
+- There are 2 main loops, the [`while`](Topics/Loops.md#whileㅤLoops) loop and the [`for`](Topics/Loops.md#forㅤloops) loop
+

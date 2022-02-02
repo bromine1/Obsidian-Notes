@@ -1,8 +1,8 @@
-<!-- Tags: #if #elif #else #logic #loops #conditionals -->
+<!-- Tags: #if #elif #else #logic #conditionals #functions -->
 
 
 # Logical Functions
-## If Statement
+## IfㅤStatement
 ```python
 if condition # colon is necessary
 	Code to execute # note the indent
@@ -61,7 +61,7 @@ else:
 
 
 
-# Logic Operators
+# LogicㅤOperators
 Logic Operators act as an aditional function you can use to modify and compare the results of comparison operators, allowing for complex comparisons
 
 ## and
