@@ -4,37 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "81206e2700267cb9",
-        "type": "split",
-        "children": [
-          {
-            "id": "0f1142d97d255394",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b645878d8e112933",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Python/Modules/Module3/Topics/Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "0f1142d97d255394",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "b645878d8e112933",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Classes/Python/Modules/Module3/Topics/Lists.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
+                "file": "Classes/Python/Modules/Module3/Topics/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,10 +116,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f1142d97d255394",
+  "active": "b645878d8e112933",
   "lastOpenFiles": [
-    "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
     "Classes/Python/Modules/Module3/Topics/Lists.md",
+    "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
     "Classes/Python/Modules/Module3/Topics/Loops.md",
     "Classes/Python/Modules/Module3/Topics/Logic.md",
     "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md",

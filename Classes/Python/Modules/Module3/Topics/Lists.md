@@ -2,12 +2,70 @@
 <!--Tags: #Lists #data_types #python #computer_science--> 
 
 # Lists
-- This area will be populated once I finish the test
-- For now I am going to outline what is going here, check w3schools if you have questions about a function
+## Info
+- Lists are there own data type specefied as `list = []`
+- Lists work differently than variables. They call to a specific point, and if you clone a list with `x = y`, for example, any changes to x will reflect in y
+- Lists can nests lists, which allow for coordinates and multiple dimensions
+<!-- time for 8 nested lists lol -->
 
-## Outline
-- List format
-### List data
+## List Information Retrieval
+- Lists are organized by **Indexing**. Python starts at 0, and you can count back with negative numbers.
+- Indexes are decided with brackets `List[int]`
+```python
+numbers = [1, 2, 3, 4, 5]
+print(numbers[0]) # prints 1, as 0 is the start
+print(numbers[1]) # prints 2, as 2 is in the 1 index position
+print(numbers[-1]) # prints 5, as 5 is the first number from the right
+
+rnumbers = [5, 4, 3, 2, 1]
+grid = [numbers, rnumbers]
+
+print(grid[0][0]) # prints 1, as it looks for the first list, then the first number in that list
+print(grid[1][0]) # prints 5, as it looks for the second list, then the first number in that list
+```
+
+- one can find the length of a list with `len()`
+- `len()` returns an integer with the length of a list. This doesn't follow the weird 0 thing, just the straight up number of items
+```python
+numbers = [1, 2, 3, 4, 5]
+
+print(len(numbers)) # returns 5
+
+# practical use
+
+for x in range(len(numbers)):
+	print(x)
+# This can be used if you need to iterate over a number related to a list and noth the list itself. While you just print here, it has more uses in more complex tasks
+
+```
+ - You may wish to find if an item is in a list, say from user input. What if you want to find out if something sin't in a list? the `in` keyword is used for this purpose
+ - `in`, for the purposes of strings, takes a data point, then sees if it is in a list. If it is, in returns `True`. This means that we can also use `not in` to see if something isn't in a list
+ - requires a string as an argument
+  ```python
+
+# example
+str in list
+places = ["home","school","here","there"]
+fairytale_land = ["mordor, hogsmeade, australia"]
+
+x = input("please name a place")
+
+if x in places:
+	print("I've been there")
+elif x in fairytale_land:
+	print("Thats not a real place!")
+elif x not in places:
+	print("You'll have to take me there sometime")
+
+# else would be better here, but this is just for demonstration purposes
+
+
+```
+ ## List manipulation
+ Its coming soon™ but I need sleep. I'll get this done some time on the 3rd.
+ 
+ 
+ %%### List data
  Lists 
 - List information
 	- data type
@@ -17,10 +75,10 @@
 - info retrieval
 	- indexes
 	- negative indexes
-	- displaying items
+	- displaying items 
 	- len()
 	- `in`
-	- `not in`
+	- `not in`%%
 - List manipulation
 	- deleting items `del`
 	- List methods
