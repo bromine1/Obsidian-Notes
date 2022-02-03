@@ -62,12 +62,73 @@ elif x not in places:
 
 
 ```
+ - You way want to make a seperate list when copying it, or specify a range of items. we can do this with `[:]`. 
+ - The left side specefies the start, and the right side specefies the end. 
+ - Negative values can be used
+ - If the left side is greater than the right side `[]` is the result
+```python
+numbers = [1, 2, 3, 4, 5]
+
+print numbers[1:3] # prints 2 and 3
+
+print numbers[-4:-4] # prints 2 and 3
+
+section = numbers[1:3] # creates a new list with just the numbers 2 and 3. Any changes made to numbers will not affect this
+
+print(setion)
+
+```
+ - This is also known as **slicing**, and can be used in some methods or functions that take lists
+
  ## List manipulation
- Its coming soon™ but I need sleep. I'll get this done some time on the 3rd.
+- Lists are a **mutable** data type. We can manipulate and change the contents of lists through various methods, functions, and keywords.
+
+### del
+- `del` is shorthand for delete
+- `del` deletes an item based on an index
+- `del` can use slicing to manipulate multiple index items at once
+```python
+numbers = [1, 2, 3, 4, 5]
+
+del numbers[0] # deletes the item 1
+print (numbers)
+
+numbers = [1, 2, 3, 4, 5]
+
+del numbers[0:4] # deletes all numbers except for 5
+
+```
+
+### Methods
+- Lists have a few notable methods you can use to manipulate their contents, `.append()`, `.insert()`, `.reverse()`,and `.sort()`
+
+#### .append()
+- append means to add to the end, and thats exactly what it does
+- `.append()` places a value at the end of a list
+```python
+numbers = [1, 2, 3, 4, 5]
+
+numbers.append(6)
+
+print(numbers) # Will print [1, 2, 3, 4, 5, 6]
+
+```
+
+#### .insert()
+- `insert()` is a bit more inteligent
+#### .reverse()
+#### .sort()
+
  
- 
- %%### List data
- Lists 
+- List manipulation
+	- deleting items `del`
+	- List methods
+		- `.append()`
+		- `.insert()`
+		- `.reverse()`
+		- `.sort()`
+<!--### List data
+Lists 
 - List information
 	- data type
 	- Syntax
@@ -79,12 +140,4 @@ elif x not in places:
 	- displaying items 
 	- len()
 	- `in`
-	- `not in`%%
-- List manipulation
-	- deleting items `del`
-	- List methods
-		- `.append()`
-		- `.insert()`
-		- `.reverse()`
-		- `.sort()`
-		- Slicing `[start:end]` doesn't include the end
+	- `not in`-->
