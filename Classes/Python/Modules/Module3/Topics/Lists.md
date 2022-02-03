@@ -13,11 +13,14 @@
 	- data type
 	- Syntax
 	- Shared memory
+	- A list can contain a list. This allows lists to contain 2 values at one index, given that you have a second index to point 2. 2 numbers makes 2D. X and y, perhaps?
 - info retrieval
 	- indexes
 	- negative indexes
 	- displaying items
 	- len()
+	- `in`
+	- `not in`
 - List manipulation
 	- deleting items `del`
 	- List methods

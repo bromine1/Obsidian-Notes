@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module3/Topics/Lists.md",
+                "file": "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,10 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b645878d8e112933",
+  "active": "0f1142d97d255394",
   "lastOpenFiles": [
-    "Classes/Python/Modules/Module3/Topics/Lists.md",
     "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
+    "Classes/Python/Modules/Module3/Topics/Lists.md",
     "Classes/Python/Modules/Module3/Topics/Loops.md",
     "Classes/Python/Modules/Module3/Topics/Logic.md",
     "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md",
