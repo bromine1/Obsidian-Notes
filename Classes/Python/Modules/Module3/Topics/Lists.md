@@ -73,7 +73,8 @@ print numbers[1:3] # prints 2 and 3
 
 print numbers[-4:-4] # prints 2 and 3
 
-section = numbers[1:3] # creates a new list with just the numbers 2 and 3. Any changes made to numbers will not affect this
+section = numbers[1:3] # creates a new list with just the numbers 2 and 3. 
+#Any changes made to numbers will not affect this
 
 print(setion)
 
@@ -115,18 +116,66 @@ print(numbers) # Will print [1, 2, 3, 4, 5, 6]
 ```
 
 #### .insert()
-- `insert()` is a bit more inteligent
+- `.insert()` is a bit more inteligent than `.append()`. It can insert a value at a specific **index**
+```python
+# list.insert(index,data) syntax
+
+numbers = [1, 2, 4, 5]
+numbers.insert(2, 3) # puts 3 in the correct place
+print(numbers)
+
+```
 #### .reverse()
+- `.reverse()` does exactly what it sounds like it does. It reverses a list
+- `.reverse()` takes no arguments, it simply reverses the list.
+
+```python
+numbers = [1, 2, 3, 4, 5]
+numbers.reverse() # reverses the list
+print(numbers) # prints [5, 4, 3, 2, 1]
+```
 #### .sort()
+- `.sort()` is also self explanitory. It sorts a list.
+- Lists are asorted ascending by default
+- Sort takes 2 arguments
+	- The first is a `boolean` value, `reverse =`. This allows you to have a list sort by descending order
+	- The second is `key=`. This allows you to sort based off of a diferent criteria defined by a function. W3Schools has a good example for them, but the function needs to do a few things:
+		- Iterate over a list
+		- return a value associated with an index
+		- sort indexes according to their asigned value
+```Python
+def myFunction(var):
+	# do something
+	return var_changed
+
+list = []
+list.sort(reverse= True|False, key=myFunction)
+
+```
+
+
+
+```python
+numbers = [3, 2, 1, 5, 4]
+numbers.sort()
+print (numbers)
+
+numbers = [1, 2, 3, 4, 5]
+numbers.sort(reverse=True)
+print(numbers)
+
+words = ["'stralia", "is", "not", "real"]
+
+def myFunc(i):
+	return len(i)
+
+words.sort(key=myFunc)
+print(words)
+
+```
 
  
-- List manipulation
-	- deleting items `del`
-	- List methods
-		- `.append()`
-		- `.insert()`
-		- `.reverse()`
-		- `.sort()`
+
 <!--### List data
 Lists 
 - List information
@@ -140,4 +189,10 @@ Lists
 	- displaying items 
 	- len()
 	- `in`
-	- `not in`-->
+- List manipulation
+	- deleting items `del`
+	- List methods
+		- `.append()`
+		- `.insert()`
+		- `.reverse()`
+		- `.sort()` `not in`-->
