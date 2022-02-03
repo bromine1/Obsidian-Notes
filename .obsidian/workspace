@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Python/Modules/Module3/Topics/Lists.md",
+            "file": "Classes/English/Grammer/Clauses.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module3/Topics/Lists.md",
+                "file": "Classes/English/Grammer/Clauses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "b645878d8e112933",
   "lastOpenFiles": [
+    "Classes/English/Grammer/Clauses.md",
     "Classes/Python/Modules/Module3/Topics/Lists.md",
     "Classes/Python/Modules/Module3/Topics/Loops.md",
     "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
@@ -113,7 +114,6 @@
     "README.md",
     "Classes/Python/Modules/Module 3/Topics/Conditions.md",
     "Classes/Python/Modules/Module 3/Topics/Operators.md",
-    "Classes/Python/Modules/Module 3/Topics/Booleans.md",
-    "Classes/Python/Python TOC.md"
+    "Classes/Python/Modules/Module 3/Topics/Booleans.md"
   ]
 }
