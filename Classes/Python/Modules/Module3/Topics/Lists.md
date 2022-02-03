@@ -35,7 +35,8 @@ print(len(numbers)) # returns 5
 
 for x in range(len(numbers)):
 	print(x)
-# This can be used if you need to iterate over a number related to a list and noth the list itself. While you just print here, it has more uses in more complex tasks
+# This can be used if you need to iterate over a number related to a list and not 
+#the list itself. While you just print here, it has more uses in more complex tasks
 
 ```
  - You may wish to find if an item is in a list, say from user input. What if you want to find out if something sin't in a list? the `in` keyword is used for this purpose
