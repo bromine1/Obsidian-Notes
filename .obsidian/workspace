@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Python/Modules/Module4/Topics/Errors.md",
-            "mode": "source",
+            "file": "Classes/Python/Modules/Module4/Module4.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197,
-    "collapsed": true
+    "width": 197
   },
   "right": {
     "id": "e3e73afeeaf21a44",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module4/Topics/Errors.md",
+                "file": "Classes/Python/Modules/Module4/Module4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +105,10 @@
   },
   "active": "48e28c95f859832a",
   "lastOpenFiles": [
-    "Classes/Python/Modules/Module4/Topics/Errors.md",
     "Classes/Python/Modules/Module4/Module4.md",
-    "Classes/Python/Modules/Module4/Topics/Tuples.md",
+    "Classes/Python/Modules/Module4/Topics/Errors.md",
     "Classes/Python/Modules/Module4/Topics/Dictionaries.md",
+    "Classes/Python/Modules/Module4/Topics/Tuples.md",
     "Classes/Python/Modules/Module4/Topics/Functions.md",
     "Classes/Python/Modules/Module3/Topics/Logic.md",
     "Classes/Python/Modules/Module3/Topics/Loops.md",
