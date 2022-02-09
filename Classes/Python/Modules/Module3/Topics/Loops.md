@@ -12,7 +12,7 @@ Each loops has its own purpose, and mastering both allows for fast and efficient
 ## whileㅤLoops
 - `while` accepts a `boolean` and some code
 - `while` executes the code until the `boolean` is true
-- the syntax is the exact same as the [`if`](Topics/Logic.md#IfㅤStatement) statement
+- the syntax is the exact same as the [`if`](Logic.md#IfㅤStatement) statement
 ```Python
 # Syntax
 while bool: # bool is boolean
@@ -33,7 +33,7 @@ while y:
 ```
 
 ## forㅤloops
-- `for` loops work a little differently. They iterate a number of times that the coder specefies, such as in a range of numbers, a random amount of time, or for each item in a [list](Topics/Loops.md).
+- `for` loops work a little differently. They iterate a number of times that the coder specefies, such as in a range of numbers, a random amount of time, or for each item in a [list](Loops.md).
 - the `for` loops needs a variable to store data in, which can be referenced within the function. It also needs the `in` keyword, to specify a range or some data to iterate through
 - Check [W3schools](https://www.w3schools.com/python/python_for_loops.asp)
 ```python

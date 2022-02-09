@@ -83,7 +83,15 @@ print(setion)
 
  ## List manipulation
 - Lists are a **mutable** data type. We can manipulate and change the contents of lists through various methods, functions, and keywords.
+### Multiplication
+- lists can be multiplied by a number to repeat themselves
+```python
 
+list = [1, 2, 3]
+list *= 3
+print(list)
+# prints [1, 2, 3, 1, 2, 3, 1, 2, 3]
+```
 ### del
 - `del` is shorthand for delete
 - `del` deletes an item based on an index
@@ -136,7 +144,7 @@ print(numbers) # prints [5, 4, 3, 2, 1]
 ```
 #### .sort()
 - `.sort()` is also self explanitory. It sorts a list.
-- Lists are asorted ascending by default
+- Lists are sorted ascending by default
 - Sort takes 2 arguments
 	- The first is a `boolean` value, `reverse =`. This allows you to have a list sort by descending order
 	- The second is `key=`. This allows you to sort based off of a diferent criteria defined by a function. W3Schools has a good example for them, but the function needs to do a few things:

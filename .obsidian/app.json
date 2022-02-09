@@ -4,5 +4,5 @@
   "promptDelete": false,
   "communityThemeSortOrder": "download",
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": false
 }

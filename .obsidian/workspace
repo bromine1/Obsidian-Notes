@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d9473b6e0697847e",
+        "id": "48e28c95f859832a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Classes/Python/Modules/Module4/Module4.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Classes/Python/Modules/Module4/Module4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9473b6e0697847e",
+  "active": "48e28c95f859832a",
   "lastOpenFiles": [
-    "Curriculars/Debate Club/2-4 tag tean debates.md",
-    "Classes/Python/Modules/Module3/Topics/Loops.md",
+    "Classes/Python/Modules/Module4/Module4.md",
+    "Classes/Python/Modules/Module4/Topics/Functions.md",
+    "Classes/Python/Modules/Module4/Topics/Errors.md",
+    "Classes/Python/Modules/Module4/Topics/Dictionaries.md",
+    "Classes/Python/Modules/Module4/Topics/Tuples.md",
     "Classes/Python/Modules/Module3/Topics/Lists.md",
-    "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
-    "Classes/Python/Function Database/Import.md",
     "Classes/Python/Modules.md",
-    "Classes/English/Grammer/Clauses.md",
-    "Classes/Python/Modules/Module3/Topics/Logic.md",
-    "Classes/Python/Modules/Module 2 Note Catcher - Begining Information.md",
-    "README.md"
+    "Classes/Python/Modules/Module3/Module3NoteCatcher.md",
+    "Temerity.md",
+    "Classes/Python/Modules/Module3/Topics/Loops.md"
   ]
 }
