@@ -4,7 +4,7 @@
 # Logical Functions
 ## IfㅤStatement
 ```python
-if condition # colon is necessary
+if condition: # colon is necessary
 	Code to execute # note the indent
 Rest of the program
 ```

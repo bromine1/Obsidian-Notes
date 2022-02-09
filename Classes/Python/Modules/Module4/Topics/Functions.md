@@ -18,6 +18,29 @@ myfunction(paramater = 2, argument = 1) #prints 1 2
 myfunction() # returns an error, as the arguments are necessary. Note you still need a set of parenthases
 ```
 
+### Arguments
+#### Multivalue arguments
+- Arguments can have multiple values if given the `*`
+- Only one value with `*` can be defined
+```python
+def bigNum(*argument):
+    num = 1
+    for x in argument:
+        num *= x
+        print(x)
+    print(num)
+
+bigNum(1, 2, 3, 4, 5, 6)
+
+```
+#### Default values
+- arguments can be given default values
+```python
+def pleasantry(time="day"):
+	print("good", time, end="!")
+pleasantry()
+```
+
 ### Return parameter
 - `return` gives a value back to the main code
 - Think of the function `float()`, for example. You give it a string or integer, and it **returns** a *floating point value*. If you define a function to give backa value, you are **returning** it in the same way.

@@ -16,3 +16,7 @@
 - Dictionaries act as an orderless way to store data
 - data can be accessed through a `key`, or a value
 - This allows us to make organized sets of data 
+
+## Errors
+- Sometimes our code will have errors. Even if we don't necessarily have a bug, there could be an error in user input.
+- We can use a `try` and `except` key to run risky or prone parts of ccode. If it fails, the entire program doesn't have to.
