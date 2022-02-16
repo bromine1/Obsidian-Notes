@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Python/Modules/ModuleSummative Study Guide/ModuleSummative.md",
-            "mode": "preview",
+            "file": "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Classes, Objects, and Exceptions/CLassesAndObjects.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/ModuleSummative Study Guide/ModuleSummative.md",
+                "file": "Daily Notes/2022-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,14 +115,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad1c52a3181a3863",
+  "active": "0083670055333939",
   "lastOpenFiles": [
+    "Daily Notes/2022-02-16.md",
+    "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Classes, Objects, and Exceptions/CLassesAndObjects.md",
     "Classes/Python/Modules/ModuleSummative Study Guide/ModuleSummative.md",
     "Classes/Python/Modules/Module4/Module4.md",
-    "Daily Notes/2022-02-16.md",
     "Classes/Python/Modules/Module3/Topics/Logic.md",
     "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Functions and Modules/LambdaFunctions.md",
-    "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Classes, Objects, and Exceptions/CLassesAndObjects.md",
     "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Functions and Modules/Yield.md",
     "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Functions and Modules/Unicode.md",
     "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Control and Evaluations/Lists-Vectors.md",
