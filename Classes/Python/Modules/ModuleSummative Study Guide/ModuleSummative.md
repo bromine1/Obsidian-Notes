@@ -1,6 +1,6 @@
 # Summative
 ## Control and Evaluation
-### [Bitwise Operators](Topics/Classes,%20Objects,%20and%20Exceptions/Bitwise%20Operators.md)
+### [Bitwise Operators](Classes/Python/Modules/ModuleSummative%20Study%20Guide/Topics/Control%20and%20Evaluations/Bitwise%20Operators.md)
 - Deal with the business of bits
 
 ### [RelationalㅤOperators](Logic.md#ComparisonㅤOperators)
