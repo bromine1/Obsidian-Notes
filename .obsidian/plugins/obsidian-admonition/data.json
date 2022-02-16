@@ -2,7 +2,8 @@
   "userAdmonitions": {},
   "syntaxHighlight": false,
   "copyButton": false,
-  "version": "6.9.5",
+  "version": "6.11.0",
+  "warnedAboutNC": true,
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "syncLinks": true,
@@ -10,5 +11,7 @@
   "injectColor": true,
   "parseTitles": true,
   "allowMSSyntax": true,
-  "livePreviewMS": true
+  "livePreviewMS": true,
+  "dropShadow": true,
+  "hideEmpty": false
 }

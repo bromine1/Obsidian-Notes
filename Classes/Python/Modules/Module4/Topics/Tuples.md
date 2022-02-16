@@ -1,5 +1,7 @@
 # Tuples
 - Tuples are immutable in that the data within them cannot **Change.** This does not mean, however, that we cannot add to a tuple during a runtime
+- Tuples can be used as keys for dictionaries
+- Search is faster as the program does not need to reindex often
 
 ## Addition
 - You can add tuples onto other tuples

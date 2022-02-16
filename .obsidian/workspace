@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "48e28c95f859832a",
+        "id": "ad1c52a3181a3863",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Python/Modules/Module4/Topics/Errors.md",
+            "file": "Classes/Python/Modules/ModuleSummative Study Guide/ModuleSummative.md",
             "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0083670055333939",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2022-02-16.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197,
-    "collapsed": true
+    "width": 197
   },
   "right": {
     "id": "e3e73afeeaf21a44",
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Python/Modules/Module4/Topics/Errors.md",
+                "file": "Classes/Python/Modules/ModuleSummative Study Guide/ModuleSummative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +101,7 @@
             }
           },
           {
-            "id": "30a4f94b15ceae43",
+            "id": "5ead902f41ba77e7",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -104,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48e28c95f859832a",
+  "active": "ad1c52a3181a3863",
   "lastOpenFiles": [
-    "Classes/Python/Modules/Module4/Topics/Errors.md",
-    "Classes/Python/Modules/Module4/Module4.md",
-    "Classes/Python/Modules/Module4/Topics/Dictionaries.md",
-    "Classes/Python/Modules/Module4/Topics/Tuples.md",
-    "Classes/Python/Modules/Module4/Topics/Functions.md",
+    "Classes/Python/Modules/ModuleSummative Study Guide/ModuleSummative.md",
+    "Daily Notes/2022-02-16.md",
     "Classes/Python/Modules/Module3/Topics/Logic.md",
-    "Classes/Python/Modules/Module3/Topics/Loops.md",
-    "Classes/Python/Modules/Module3/Topics/Lists.md",
-    "Classes/Python/Modules.md",
-    "Classes/Python/Modules/Module3/Module3NoteCatcher.md"
+    "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Functions and Modules/LambdaFunctions.md",
+    "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Classes, Objects, and Exceptions/CLassesAndObjects.md",
+    "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Functions and Modules/Yield.md",
+    "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Functions and Modules/Unicode.md",
+    "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Control and Evaluations/Lists-Vectors.md",
+    "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Control and Evaluations/RationalOperators.md",
+    "Classes/Python/Modules/ModuleSummative Study Guide/Topics/Control and Evaluations/Bitwise Operators.md"
   ]
 }
