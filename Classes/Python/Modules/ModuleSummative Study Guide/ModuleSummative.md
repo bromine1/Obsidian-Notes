@@ -1,6 +1,6 @@
 # Summative
 ## Control and Evaluation
-### [Bitwise Operators](Bitwise%20Operators.md)
+### [Bitwise Operators](Topics/Bitwise%20Operators.md)
 - Deal with the business of bits
 
 ### [RelationalㅤOperators](Logic.md#ComparisonㅤOperators)
