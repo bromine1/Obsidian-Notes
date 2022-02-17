@@ -17,5 +17,5 @@
 ## Classes, Objects, and Exceptions
 ### [Exceptions](../Module4/Topics/Errors.md)
 - Error handling, or what to do when your code raises and error
-### [CLassesAndObjects](./Topics/Classes,%20Objects,%20and%20Exceptions/CLassesAndObjects.md)
+### [Classes And Objects](./Topics/Classes,%20Objects,%20and%20Exceptions/CLassesAndObjects.md)
 
