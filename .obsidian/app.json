@@ -9,6 +9,6 @@
   "showLineNumber": true,
   "foldIndent": true,
   "foldHeading": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newLinkFormat": "relative"
 }
