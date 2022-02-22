@@ -15,7 +15,7 @@
 
 
 ## [Functions and Modules](https://quizlet.com/_b3sdbl?x=1qqt&i=1rku3g)
-- 
+- Contains various useful functions one should know about
 ## Classes, Objects, and Exceptions
 ### [Exceptions](../Module4/Topics/Errors.md)
 - Error handling, or what to do when your code raises and error
